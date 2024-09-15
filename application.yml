@@ -1,6 +1,6 @@
 spring:
   application:
-    name: USERSERVICE
+    name: comfig-default
 
 eureka:
   client:
